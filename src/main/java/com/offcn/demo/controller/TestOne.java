@@ -8,6 +8,6 @@ public class TestOne {
     static final int One = 90;
 @GetMapping("/getOne")
     public void getOne(){
-    System.out.println("1");
+    System.out.println("222");
 }
 }
